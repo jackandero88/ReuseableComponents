@@ -1,0 +1,23 @@
+{
+    "home": {
+      "capture_evidence": "Capture Evidence",
+      "update_exampler": "Update Exemplar Standard",
+      "welcome": "Welcome ",
+      "help": "Help",
+      "logout": "Logout",
+      "what_would_like_to_do": "What would you like to do?"
+    },
+
+    "charts": {
+      "charts": "Charts",
+      "search_charts": "Search Charts",
+      "my_charts": "My Charts",
+      "all_charts": "All Charts"
+    },
+
+    "objectives": {
+        "objectives": "Objectives",
+        "students": "Students"
+      }
+
+  }
